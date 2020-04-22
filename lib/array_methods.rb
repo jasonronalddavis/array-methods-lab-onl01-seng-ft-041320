@@ -3,7 +3,6 @@ array = ["wow", "I", "am", "really", "learning", "arrays!"]
 element.include?("wow")
 element.include?("Tardis")
 end
-end
 
 def using_sort(array)
 
