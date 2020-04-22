@@ -1,5 +1,5 @@
 def using_include(array, element)
-.include? using_include(array,element)
+array.include? using_include(array,element)
 .include? using_include(array,element)
 end
 
